@@ -1,0 +1,9 @@
+Sunscreen,Nivea,475.5,3,Germany
+AloeVeraGel,Patanjali,120.0,12,India
+SunsCream,Cetaphil,680.0,3,USA
+FaceWash,Himalaya,160.0,18,Nepal
+VitamSerum,The Ordinary,1450.0,5,Canada
+Toner,Simple,350.0,20,UK
+NightCream,Olay,899.0,6,Singapore
+EyeGel,Neutrogena,799.99,12,USA
+FacePack,Wow,275.0,12,India
